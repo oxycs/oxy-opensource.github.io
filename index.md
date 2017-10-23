@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Oxy Open Source's Webpage
 
-You can use the [editor on GitHub](https://github.com/oxy-opensource/oxy-opensource.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a club, we aim to develop an inclusive space for any student at Occidental College interested in computer science and tech to learn, collaborate, and network.
 
 ### Markdown
 
