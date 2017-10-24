@@ -2,12 +2,16 @@
 
 As a club, we aim to develop an inclusive space for any student at Occidental College interested in computer science and tech to learn, collaborate, and network.
 
-### Markdown
+### Club's Eboard
+President: Emily Tran
+Treasuer: Stephanie Angulo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is Workspace?
+
+Come code with Oxy Open Source! Our resources include snacks, peer tutors, study sessions for specific Oxy CS Courses, and other CS related things you might need. We want all computer science students participation, regardless of CS background.
 
 ```markdown
-Syntax highlighted code block
+Past Workshops
 
 # Header 1
 ## Header 2
@@ -21,15 +25,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
+Email [opensource@oxy.edu](opensource@oxy.edu) for any questions or concerns. Visit our [Facebook](https://www.facebook.com/oxyopensourceclub/) and [Instagram](https://www.instagram.com/oxyopensource/) for more information on future events and collaborations!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oxy-opensource/oxy-opensource.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
