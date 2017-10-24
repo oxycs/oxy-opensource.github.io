@@ -22,8 +22,9 @@ Come code with Oxy Open Source! The reason for workspace is to have a designated
 
 
 #### Past Events
+
 *Intro to Git and Github Workshop* [Slides](https://github.com/oxy-opensource/intro-to-git-and-github/blob/master/Intro%20to%20Git%20and%20Github%20with%20Oxy%20Open%20Source.pdf)
-![Image](https://github.com/oxy-opensource/oxy-opensource.github.io/blob/master/src/workshop_git_github.jpg "Workshop ad")
+![alt text](oxy-opensource.github.io/src/workshop_git_github.jpg "Workshop ad")
 
 
 ### Contact
