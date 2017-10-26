@@ -8,6 +8,9 @@ As a club, we aim to develop an inclusive space for any student at Occidental Co
 **Outreach Officer**: [deGrasse Schrader](https://github.com/degrasse), **Workspace Officer**: [Lijia Li](https://github.com/Lijia-Li)
 #
 **Opportunity Outreach**: [Luis Figueroa](https://github.com/figueroaluis), **Designer**: [Max Peng](https://github.com/maxpeng041)
+#
+**Club Advisor**: [Justin Li](https://github.com/justinnhli)
+#
 
 ### What is Workspace?
 
