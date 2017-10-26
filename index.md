@@ -17,7 +17,7 @@ Come code with Oxy Open Source! The reason for workspace is to have a designated
 - Themed panels 
 - Projects
 - Demos
-- Opportunities on and off campus
+- [Opportunities](https://docs.google.com/spreadsheets/d/1-i3lBLq9i84iSfrfWr_G2hzOmdzdYBtQxK_gHJ1lFj8/edit#gid=0) on and off campus
 - Workshops
 
 
